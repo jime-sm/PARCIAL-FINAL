@@ -1,9 +1,9 @@
 # PaqueLibre - Parcial Tercer Corte (Programación 1)
 
-- **Estudiante:** _(escribe aquí tu nombre)_
+- **Estudiante:** María Jimena Serrano Murillo
 - **Variante:** 5 - Paquetería PaqueLibre
 - **Patrón de diseño:** State
-- **Base de datos:** SQLite (archivo `paquelibre.db`, se crea solo al abrir la aplicación; el script está en `script.sql`)
+- **Base de datos:** SQLite 
 
 ## Cómo ejecutar
 Requisitos: Java 17 o superior y Maven.
